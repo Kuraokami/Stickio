@@ -1,3 +1,5 @@
+![Project Screenshot](Stickio.png)
+
 # Stickio
 
 your personal notes manager, on Localstorage.
